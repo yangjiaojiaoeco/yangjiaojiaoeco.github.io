@@ -24,9 +24,10 @@ author:
   avatar           : "yangjiaojiao6.png"
   name             : "Yang Jiaojiao"
   pronouns         : # example: "she/her"  
-  bio: |           
-                    The Chinese University  
-                    of Hong Kong
+  bio              : #"The Chinese University  
+                    of Hong Kong"       
+                    "The Chinese University  
+                    of Hong Kong"
   location         : "Hong Kong"
   employer         : #"The Chinese University of Hong Kong"
   uri              : # URL

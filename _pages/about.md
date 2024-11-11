@@ -11,7 +11,7 @@ redirect_from:
 
 <p>Welcome to my website! I am a PhD Candidate in Economics at The Chinese University of Hong Kong.</p>
 
-<p>My primary fields are political economics and economic history. My current research focuses on the role of political institutions in shaping knowledge production and information dissemination, encompassing both historical and contemporary contexts. I am adept at leveraging textual analysis techniques to explore these topics. You can download my CV <a href="https://yangjiaojiaoeco.github.io/assets/CV_Yangjiaojiao2024.pdf" target="_blank">Here</a>.</p>
+<p>My primary fields are political economics and economic history. My current research focuses on the role of political institutions in shaping knowledge production and information dissemination, encompassing both historical and contemporary contexts. I am adept at leveraging textual analysis techniques to explore these topics. You can download my CV <a href="https://yangjiaojiaoeco.github.io/assets/CV_YangJiaojiao2024.pdf" target="_blank">Here</a>.</p>
 
 <p>I am on the 2024-25 academic job market.</p>
 

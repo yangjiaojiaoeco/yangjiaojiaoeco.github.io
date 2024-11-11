@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "Jiaojiao Yang - PhD Candidate in Economics"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 <div style="text-align: justify;">
 
 <p>Welcome to my website! I am a PhD Candidate in Economics at The Chinese University of Hong Kong.</p>

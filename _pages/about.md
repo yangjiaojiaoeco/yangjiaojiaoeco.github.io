@@ -13,6 +13,6 @@ My primary fields are political economics and economic history. My current resea
 
 I am on the 2024-25 academic job market.
 
-Feel free to contact me at [Email](mailto:jiaojiaoyang@cuhk.edu.hk).
+Feel free to contact me at [jiaojiaoyang@link.cuhk.edu.hk](mailto:jiaojiaoyang@link.cuhk.edu.hk).
 
 

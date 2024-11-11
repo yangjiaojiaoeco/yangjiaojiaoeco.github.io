@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an Economics PhD candidate at Harvard University. I work on energy and environmental topics, using tools from international trade and industrial organization.
+Welcome to my website! I am a PhD Candidate in Economics at The Chinese University of Hong Kong. 
 
-I am available for interviews in the 2024/25 Job Market. You can reach me at mabuin at g dot harvard dot edu. Check out my job market candidate website at this link.
-————————————————
+My primary fields are political economics and economic history. My current research focuses on the role of political institutions in shaping knowledge production and information dissemination, encompassing both historical and contemporary contexts. I am adept at leveraging textual analysis techniques to explore these topics. You can download my CV here.
+
+I am on the 2024-25 academic job market.
+
+Feel free to contact me at mmello@hbs.edu or at marcelacarvalhofm@gmail.com.
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Suppression and Resilience under Censorship: Three-century Book Publications in China"
+title: "River Network and Conflicts: How Riverine Dynamics Impact Conflict Intensity"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

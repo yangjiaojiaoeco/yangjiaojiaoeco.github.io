@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="center">
+<div style="text-align: justify;">
 
 
 Welcome to my website! I am a PhD Candidate in Economics at The Chinese University of Hong Kong. 

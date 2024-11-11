@@ -7,15 +7,25 @@ redirect_from:
   - /about.html
 ---
 
+---
+permalink: /
+title: "Jiaojiao Yang - PhD Candidate in Economics"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
+<div style="text-align: justify;">
 
-Welcome to my website! I am a PhD Candidate in Economics at The Chinese University of Hong Kong. 
+<p>Welcome to my website! I am a PhD Candidate in Economics at The Chinese University of Hong Kong.</p>
 
-My primary fields are political economics and economic history. My current research focuses on the role of political institutions in shaping knowledge production and information dissemination, encompassing both historical and contemporary contexts. I am adept at leveraging textual analysis techniques to explore these topics. You can download my CV [here](../assets/CV_Yangjiaojiao2024.pdf).
+<p>My primary fields are political economics and economic history. My current research focuses on the role of political institutions in shaping knowledge production and information dissemination, encompassing both historical and contemporary contexts. I am adept at leveraging textual analysis techniques to explore these topics. You can download my CV <a href="../assets/CV_Yangjiaojiao2024.pdf">Here</a>.</p>
 
-I am on the 2024-25 academic job market.
+<p>I am on the 2024-25 academic job market.</p>
 
-Feel free to contact me at [jiaojiaoyang@link.cuhk.edu.hk](mailto:jiaojiaoyang@link.cuhk.edu.hk).
+<p>Feel free to contact me at <a href="mailto:jiaojiaoyang@link.cuhk.edu.hk">jiaojiaoyang@link.cuhk.edu.hk</a>.</p>
 
+</div>
 
 

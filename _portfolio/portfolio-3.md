@@ -1,7 +1,5 @@
 ---
-title: "Knowledge Suppression and Resilience under Censorship: Three-century Book Publications in China"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Essays and Books: The Impact of Civil Examinations on Knowledge Production"
+excerpt: "Using Natural Language Processing (NLP) techniques, I analyze the novelty and conventionality of nearly 5,000 essays written by over 1,600 Jinshi candidates from the Qing dynasty, linking these characteristics to their performance in civil examinations and their scholarly outputs, such as published books. I measure each essay’s conventionality (or inverse novelty) by assessing its textual similarity to Zhu Xi’s commentaries on the same topic, and I evaluate each book’s creativity and impact by measuring its textual similarity to both past and future books. The findings indicate that although (1) candidates with a higher level of conventionality tend to perform better in the examination system, (2) they also tend to author and publish less innovative and impactful books, even within the traditional domains of the Confucian classics. These findings suggest that the civil examination system valued conventionality over creativity, which subsequently influences the knowledge production of the entire society. "
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
